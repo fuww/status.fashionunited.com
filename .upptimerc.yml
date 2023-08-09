@@ -1,8 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: fuww # Your GitHub organization or username, where this repository lives
+repo: status.fashionunited.com # The name of this repository
 
 sites:
+  - name: fashionunited.com
+    url: https://fashionunited.com
+  - name: fashionunited.info
+    url: https://fashionunited.info
+  - name: developer.fashionunited.com
+    url: https://developer.fashionunited.com
+  - name: dashboard.fashionunited.com
+    url: https://dashboard.fashionunited.com
+  - name: fashionunited.at
+    url: https://fashionunited.at
+  - name: fashionunited.be
+    url: https://fashionunited.be
+  - name: fashionunited.ca
+    url: https://fashionunited.ca
+  - name: fashionunited.ch
+    url: https://fashionunited.ch
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -15,12 +31,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.fashionunited.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://imagedelivery.net/7czaBv4WuiSsJFxi583jUw/4054f10b-e32a-4753-b280-499cf7a53b00/public
+  name: FashionUnited
+  introTitle: "**FashionUnited** uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is the status page which uses **real-time** data from our [GitHub repository](https://github.com/fuww/status.fashionunited.com).
   navbar:
     - title: Status
       href: /
