@@ -19,6 +19,8 @@ sites:
     url: https://fashionunited.ca
   - name: fashionunited.ch
     url: https://fashionunited.ch
+  - name: fashionunited.cl
+    url: https://fashionunited.cl
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
