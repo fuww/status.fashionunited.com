@@ -21,6 +21,48 @@ sites:
     url: https://fashionunited.ch
   - name: fashionunited.cl
     url: https://fashionunited.cl
+  - name: FashionUnited.cn
+    url: https://fashionunited.cn
+  - name: fashionunited.co
+    url: https://fashionunited.co
+  - name: fashionunited.com.ar
+    url: https://fashionunited.com.ar
+  - name: fashionunited.com.br
+    url: https://fashionunited.com.br
+  - name: fashionunited.com.pe
+    url: https://fashionunited.com.pe
+  - name: FashionUnited.de
+    url: https://fashionunited.de
+  - name: FashionUnited.es
+    url: https://fashionunited.es
+  - name: FashionUnited.fr
+    url: https://fashionunited.fr
+  - name: FashionUnited.in  
+    url: https://fashionUnited.in
+  - name: FashionUnited.info
+    url: https://fashionunited.info
+  - name: FashionUnited.it
+    url: https://fashionunited.it
+  - name: fashionunited.jp
+    url: https://fashionunited.jp
+  - name: fashionunited.mx
+    url: https://fashionunited.mx
+  - name: FashionUnited.nl
+    url: https://fashionunited.nl
+  - name: fashionunited.nz
+    url: https://fashionunited.nz
+  - name: FashionUnited.ru
+    url: https://fashionunited.ru
+  - name: fashionunited.uk
+    url: https://fashionunited.uk
+  - name: fashionweekweb.com
+    url: https://fashionweekweb.com
+  - name: internationalfashionjobs.com
+    url: https://internationalfashionjobs.com
+  - name: fuww.nl
+    url: https://fuww.nl
+  - name: fashionunited.io
+    url: https://fashionunited.io  
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
