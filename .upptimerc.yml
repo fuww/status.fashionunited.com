@@ -59,10 +59,6 @@ sites:
     url: https://fashionweekweb.com
   - name: internationalfashionjobs.com
     url: https://internationalfashionjobs.com
-  - name: fuww.nl
-    url: https://fuww.nl
-  - name: fashionunited.io
-    url: https://fashionunited.io  
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
