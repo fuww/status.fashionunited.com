@@ -156,19 +156,19 @@
     "url": "https://fashionunited.cl",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.cl.ico",
     "slug": "fashionunited-cl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1289,
-    "timeDay": 8333,
-    "timeWeek": 3418,
-    "timeMonth": 2066,
-    "timeYear": 1289,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1277,
+    "timeDay": 5793,
+    "timeWeek": 3192,
+    "timeMonth": 2008,
+    "timeYear": 1277,
     "dailyMinutesDown": {
-      "2023-10-02": 1
+      "2023-10-02": 5
     }
   },
   {
