@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.be.ico",
     "slug": "fashionunited-be",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.63%",
     "time": 624,
     "timeDay": 1090,
     "timeWeek": 882,
@@ -518,18 +518,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 263,
     "timeWeek": 192,
     "timeMonth": 152,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2023-10-10": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
