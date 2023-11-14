@@ -40,9 +40,9 @@
     "url": "https://developer.fashionunited.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer.fashionunited.com.ico",
     "slug": "developer-fashionunited-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.46%",
@@ -52,6 +52,7 @@
     "timeMonth": 2194,
     "timeYear": 1745,
     "dailyMinutesDown": {
+      "2023-11-14": 0,
       "2023-08-18": 354,
       "2023-08-17": 141,
       "2023-08-10": 816,
@@ -524,7 +525,7 @@
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 74,
-    "timeWeek": 108,
+    "timeWeek": 79,
     "timeMonth": 131,
     "timeYear": 132,
     "dailyMinutesDown": {}
