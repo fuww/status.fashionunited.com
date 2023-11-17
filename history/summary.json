@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/developer.fashionunited.com.ico",
     "slug": "developer-fashionunited-com",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.51%",
     "time": 1714,
     "timeDay": 329,
     "timeWeek": 2071,
@@ -525,7 +525,7 @@
     "time": 131,
     "timeDay": 77,
     "timeWeek": 86,
-    "timeMonth": 132,
+    "timeMonth": 124,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -552,17 +552,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 498,
-    "timeWeek": 297,
-    "timeMonth": 339,
-    "timeYear": 328,
-    "dailyMinutesDown": {}
+    "time": 326,
+    "timeDay": 316,
+    "timeWeek": 278,
+    "timeMonth": 334,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   }
 ]
