@@ -71,9 +71,9 @@
     "slug": "dashboard-fashionunited-com",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "76.18%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "74.74%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.90%",
     "time": 339,
     "timeDay": 246,
@@ -81,7 +81,7 @@
     "timeMonth": 331,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-04-11": 173,
+      "2024-04-11": 194,
       "2024-04-10": 170
     }
   },
@@ -110,9 +110,9 @@
     "slug": "fashionunited-be",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "76.18%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "74.75%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.55%",
     "time": 847,
     "timeDay": 602,
@@ -120,7 +120,7 @@
     "timeMonth": 1075,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2024-04-11": 173,
+      "2024-04-11": 194,
       "2024-04-10": 170,
       "2023-08-21": 449,
       "2023-08-20": 790
@@ -133,9 +133,9 @@
     "slug": "fashionunited-ca",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "76.18%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "74.75%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.90%",
     "time": 773,
     "timeDay": 547,
@@ -143,7 +143,7 @@
     "timeMonth": 876,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2024-04-11": 173,
+      "2024-04-11": 194,
       "2024-04-10": 170
     }
   },
@@ -280,18 +280,16 @@
     "slug": "fashionunited-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
     "timeDay": 1383,
     "timeWeek": 838,
     "timeMonth": 488,
     "timeYear": 337,
-    "dailyMinutesDown": {
-      "2024-04-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fashionunited.es",
@@ -316,18 +314,20 @@
     "url": "https://fashionunited.fr",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.fr.ico",
     "slug": "fashionunited-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 243,
-    "timeWeek": 371,
+    "time": 353,
+    "timeDay": 236,
+    "timeWeek": 353,
     "timeMonth": 239,
-    "timeYear": 354,
-    "dailyMinutesDown": {}
+    "timeYear": 353,
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "fashionunited.in",
@@ -425,18 +425,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.nl.ico",
     "slug": "fashionunited-nl",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "76.18%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "74.75%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.87%",
     "time": 611,
     "timeDay": 223,
     "timeWeek": 553,
     "timeMonth": 623,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-04-11": 174,
+      "2024-04-11": 194,
       "2024-04-10": 169
     }
   },
