@@ -89,19 +89,19 @@
     "url": "https://fashionunited.at",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.at.ico",
     "slug": "fashionunited-at",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.87%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.98%",
     "time": 407,
-    "timeDay": 199,
-    "timeWeek": 319,
-    "timeMonth": 346,
+    "timeDay": 256,
+    "timeWeek": 325,
+    "timeMonth": 347,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-12-03": 26
+      "2024-12-03": 117
     }
   },
   {
