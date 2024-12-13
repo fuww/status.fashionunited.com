@@ -24,9 +24,9 @@
     "url": "https://fashionunited.info",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.info.ico",
     "slug": "fashionunited-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 272,
     "timeMonth": 297,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 0
+    }
   },
   {
     "name": "developer.fashionunited.com",
@@ -173,9 +175,9 @@
     "slug": "fashionunited-cl",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 426,
     "timeDay": 438,
@@ -183,7 +185,7 @@
     "timeMonth": 366,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-12-13": 7,
+      "2024-12-13": 12,
       "2024-04-11": 186
     }
   },
@@ -214,9 +216,9 @@
     "slug": "fashionunited-co",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 315,
     "timeDay": 520,
@@ -224,7 +226,7 @@
     "timeMonth": 289,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-12-13": 7,
+      "2024-12-13": 12,
       "2024-04-11": 197
     }
   },
@@ -235,9 +237,9 @@
     "slug": "fashionunited-com-ar",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 416,
     "timeDay": 362,
@@ -245,7 +247,7 @@
     "timeMonth": 342,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-12-13": 1,
+      "2024-12-13": 6,
       "2024-04-11": 192
     }
   },
@@ -256,9 +258,9 @@
     "slug": "fashionunited-com-br",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 689,
     "timeDay": 862,
@@ -266,7 +268,7 @@
     "timeMonth": 613,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2024-12-13": 1
+      "2024-12-13": 6
     }
   },
   {
@@ -276,9 +278,9 @@
     "slug": "fashionunited-com-pe",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 715,
     "timeDay": 666,
@@ -286,7 +288,7 @@
     "timeMonth": 828,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-12-13": 1,
+      "2024-12-13": 6,
       "2024-04-11": 197
     }
   },
@@ -355,9 +357,9 @@
     "slug": "fashionunited-in",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 216,
     "timeDay": 69,
@@ -365,7 +367,7 @@
     "timeMonth": 227,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-12-13": 1,
+      "2024-12-13": 7,
       "2024-04-11": 99
     }
   },
@@ -374,10 +376,10 @@
     "url": "https://fashionunited.info",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.info.ico",
     "slug": "fashionunited-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
@@ -385,7 +387,9 @@
     "timeWeek": 272,
     "timeMonth": 297,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 1
+    }
   },
   {
     "name": "fashionunited.it",
@@ -410,10 +414,10 @@
     "url": "https://fashionunited.jp",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.jp.ico",
     "slug": "fashionunited-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
@@ -421,7 +425,9 @@
     "timeWeek": 553,
     "timeMonth": 473,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 1
+    }
   },
   {
     "name": "fashionunited.mx",
@@ -430,9 +436,9 @@
     "slug": "fashionunited-mx",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 565,
     "timeDay": 864,
@@ -440,7 +446,7 @@
     "timeMonth": 385,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-12-13": 1,
+      "2024-12-13": 7,
       "2024-04-11": 197
     }
   },
@@ -491,10 +497,10 @@
     "url": "https://fashionunited.ru",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.ru.ico",
     "slug": "fashionunited-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
@@ -502,7 +508,9 @@
     "timeWeek": 422,
     "timeMonth": 403,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 1
+    }
   },
   {
     "name": "fashionunited.uk",
