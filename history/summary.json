@@ -441,10 +441,10 @@
     "url": "https://fashionunited.nl",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.nl.ico",
     "slug": "fashionunited-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 584,
@@ -453,6 +453,7 @@
     "timeMonth": 1136,
     "timeYear": 577,
     "dailyMinutesDown": {
+      "2024-12-13": 1,
       "2024-04-11": 461,
       "2024-04-10": 169
     }
