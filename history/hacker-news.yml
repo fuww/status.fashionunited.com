@@ -1,7 +1,7 @@
 url: https://news.ycombinator.com
-status: up
-code: 200
-responseTime: 150
-lastUpdated: 2025-01-09T23:05:58.747Z
+status: down
+code: 502
+responseTime: 321
+lastUpdated: 2025-01-10T20:47:15.547Z
 startTime: 2020-08-10T07:54:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
