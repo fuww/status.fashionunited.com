@@ -445,10 +445,10 @@
     "url": "https://fashionunited.ie",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.ie.ico",
     "slug": "fashionunited-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
@@ -456,7 +456,9 @@
     "timeWeek": 217,
     "timeMonth": 253,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 1
+    }
   },
   {
     "name": "fashionunited.in",
