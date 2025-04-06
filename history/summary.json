@@ -387,18 +387,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.fr.ico",
     "slug": "fashionunited-fr",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.92%",
     "time": 232,
     "timeDay": 225,
     "timeWeek": 176,
     "timeMonth": 213,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-04-06": 8,
       "2024-12-13": 172,
       "2024-04-11": 268
     }
@@ -448,18 +447,16 @@
     "slug": "fashionunited-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 368,
     "timeWeek": 252,
     "timeMonth": 265,
     "timeYear": 240,
-    "dailyMinutesDown": {
-      "2025-04-06": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fashionunited.in",
@@ -527,9 +524,9 @@
     "slug": "fashionunited-jp",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 400,
     "timeDay": 238,
@@ -537,7 +534,6 @@
     "timeMonth": 224,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2025-04-06": 5,
       "2024-12-13": 125
     }
   },
@@ -648,10 +644,10 @@
     "url": "https://fashionunited.pl",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.pl.ico",
     "slug": "fashionunited-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
@@ -659,7 +655,9 @@
     "timeWeek": 251,
     "timeMonth": 213,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-06": 1
+    }
   },
   {
     "name": "fashionunited.pt",
