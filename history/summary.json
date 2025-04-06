@@ -171,10 +171,10 @@
     "url": "https://fashionunited.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.co.uk.ico",
     "slug": "fashionunited-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 482,
@@ -183,6 +183,7 @@
     "timeMonth": 513,
     "timeYear": 482,
     "dailyMinutesDown": {
+      "2025-04-06": 2,
       "2024-12-13": 18
     }
   },
@@ -191,10 +192,10 @@
     "url": "https://fashionunited.com",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.com.ico",
     "slug": "fashionunited-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
@@ -203,6 +204,7 @@
     "timeMonth": 160,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2025-04-06": 1,
       "2024-04-11": 73
     }
   },
@@ -644,19 +646,19 @@
     "url": "https://fashionunited.pl",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.pl.ico",
     "slug": "fashionunited-pl",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 155,
-    "timeWeek": 251,
-    "timeMonth": 213,
+    "timeDay": 141,
+    "timeWeek": 235,
+    "timeMonth": 211,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-04-06": 1
+      "2025-04-06": 6
     }
   },
   {
