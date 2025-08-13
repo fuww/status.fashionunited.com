@@ -298,11 +298,11 @@
     "url": "https://fashionunited.de",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.de.ico",
     "slug": "fashionunited-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 288,
     "timeDay": 641,
@@ -310,6 +310,7 @@
     "timeMonth": 254,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2025-08-13": 6,
       "2024-12-13": 34
     }
   },
@@ -336,18 +337,19 @@
     "url": "https://fashionunited.es",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.es.ico",
     "slug": "fashionunited-es",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 207,
+    "time": 208,
     "timeDay": 334,
     "timeWeek": 215,
     "timeMonth": 188,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2025-08-13": 6,
       "2024-12-13": 167
     }
   },
@@ -356,29 +358,31 @@
     "url": "https://fashionunited.fi",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.fi.ico",
     "slug": "fashionunited-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 293,
     "timeWeek": 213,
     "timeMonth": 222,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 5
+    }
   },
   {
     "name": "fashionunited.fr",
     "url": "https://fashionunited.fr",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.fr.ico",
     "slug": "fashionunited-fr",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 224,
     "timeDay": 354,
@@ -386,6 +390,7 @@
     "timeMonth": 254,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-08-13": 5,
       "2024-12-13": 172
     }
   },
@@ -432,29 +437,31 @@
     "url": "https://fashionunited.ie",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.ie.ico",
     "slug": "fashionunited-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 905,
     "timeWeek": 369,
     "timeMonth": 292,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 4
+    }
   },
   {
     "name": "fashionunited.in",
     "url": "https://fashionUnited.in",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.in.ico",
     "slug": "fashionunited-in",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 190,
     "timeDay": 445,
@@ -462,6 +469,7 @@
     "timeMonth": 177,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2025-08-13": 4,
       "2024-12-13": 345
     }
   },
@@ -470,11 +478,11 @@
     "url": "https://fashionunited.info",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.info.ico",
     "slug": "fashionunited-info",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 308,
     "timeDay": 356,
@@ -482,6 +490,7 @@
     "timeMonth": 329,
     "timeYear": 313,
     "dailyMinutesDown": {
+      "2025-08-13": 3,
       "2024-12-13": 158
     }
   },
@@ -702,11 +711,11 @@
     "url": "https://fashionunited.tv",
     "icon": "https://icons.duckduckgo.com/ip3/fashionunited.tv.ico",
     "slug": "fashionunited-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 236,
     "timeDay": 787,
@@ -714,6 +723,7 @@
     "timeMonth": 279,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2025-08-13": 2,
       "2024-12-13": 198
     }
   },
@@ -742,18 +752,19 @@
     "url": "https://fashionweekweb.com",
     "icon": "https://icons.duckduckgo.com/ip3/fashionweekweb.com.ico",
     "slug": "fashionweekweb-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 431,
+    "time": 430,
     "timeDay": 471,
     "timeWeek": 223,
     "timeMonth": 235,
     "timeYear": 327,
     "dailyMinutesDown": {
+      "2025-08-13": 2,
       "2024-12-13": 163
     }
   },
@@ -762,10 +773,10 @@
     "url": "https://internationalfashionjobs.com",
     "icon": "https://icons.duckduckgo.com/ip3/internationalfashionjobs.com.ico",
     "slug": "internationalfashionjobs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 475,
@@ -773,7 +784,9 @@
     "timeWeek": 245,
     "timeMonth": 253,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 1
+    }
   },
   {
     "name": "Google",
