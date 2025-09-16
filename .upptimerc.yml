@@ -1,6 +1,5 @@
-# Change these first
-owner: fuww # Your GitHub organization or username, where this repository lives
-repo: status.fashionunited.com # The name of this repository
+owner: fuww
+repo: status.fashionunited.com
 
 sites:
   - name: fashionunited.at
