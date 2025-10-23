@@ -12,14 +12,16 @@ sites:
     url: https://fashionunited.ch
   - name: fashionunited.cl
     url: https://fashionunited.cl
-  - name: fashionunited.cn
-    url: https://fashionunited.cn
   - name: fashionunited.co
     url: https://fashionunited.co
   - name: fashionunited.co.nz
     url: https://fashionunited.co.nz
   - name: fashionunited.co.uk
     url: https://fashionunited.co.uk
+  - name: cn.fashionunited.com
+    url: https://cn.fashionunited.com
+  - name: ru.fashionunited.com
+    url: https://ru.fashionunited.com
   - name: fashionunited.com
     url: https://fashionunited.com
   - name: fashionunited.com.ar
@@ -70,8 +72,6 @@ sites:
     url: https://fashionunited.pl
   - name: fashionunited.pt
     url: https://fashionunited.pt
-  - name: fashionunited.ru
-    url: https://fashionunited.ru
   - name: fashionunited.se
     url: https://fashionunited.se
   - name: fashionunited.tv
