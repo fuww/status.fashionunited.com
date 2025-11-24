@@ -78,10 +78,6 @@ sites:
     url: https://fashionunited.tv
   - name: fashionunited.uk
     url: https://fashionunited.uk
-  - name: fashionweekweb.com
-    url: https://fashionweekweb.com
-  - name: internationalfashionjobs.com
-    url: https://internationalfashionjobs.com
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
